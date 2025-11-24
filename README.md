@@ -1,8 +1,8 @@
 # Velkommen <br>  
 
-Mitt navn er Harald og jeg har nå fullført Kodeloftet 1, et kurs i <strong>HTML, CSS og Javascript1<strong>. 
+Mitt navn er Harald og jeg har nå fullført Kodeloftet 1, et kurs i <strong>HTML, CSS og Javascript1<strong> på Fontenehuset Kodeloftet. [Fontenehuset kodeloftet](https://www.fontenehusetbergen.no/kodeloftet) <br>
 
-[Fontenehuset kodeloftet](https://www.fontenehusetbergen.no/kodeloftet)
+Her er tre av mine prosjekter som vi hadde i forbindelse med kurset :
 
 [Books on my Bookshelf Database](https://mybookshelf-silk.vercel.app/)
 
