@@ -1,14 +1,17 @@
 # Velkommen <br>  
 
 Mitt navn er Harald og jeg har nå fullført Kodeloftet 1, et kurs i <strong>HTML, CSS og Javascript1<strong> på Fontenehuset. <br> <br>
+
+Er Høyskolekandidat i Informatikk, med hovedsakelig vekt på C/C++ programmering i Windows, men har også hatt Assembleyprogrammering, Digitaltenknikk, Datamodellering og databaseteori/samt noe SQL database spørring.
+
 [Fontenehuset kodeloftet](https://www.fontenehusetbergen.no/kodeloftet) <br>
 
-Her er tre av mine prosjekter som vi hadde i forbindelse med kurset :
+Her er tre av mine prosjekter som vi hadde i forbindelse med kurset på Kodeloftet :
 
 [Books on my Bookshelf Database](https://mybookshelf-silk.vercel.app/)
 
 Oppgaven var : <br> Håndere object og object arrays. Disse ble kodet direkte i javascript, ingen henting fra database. Valgte å registrere
-noen bøker og håndere de. La til mye artig, en AI stemme som hjelper deg og mye animasjoner. :-)
+noen bøker og håndere de. La til mye artig, en AI stemme som hjelper deg og mye animasjoner. :-) (her bør man velge "Adeline", hun er litt vennligere :-) )
 
 [Saturn - the most interesting planet in our solar system](https://saturnkodeloft1.vercel.app/)
 
