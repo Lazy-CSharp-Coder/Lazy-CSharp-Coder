@@ -1,8 +1,10 @@
 # Velkommen <br>  
 
-Mitt navn er Harald og jeg har nå fullført Kodeloftet 1, et kurs i <strong>HTML, CSS og Javascript1<strong> på Fontenehuset. <br> <br>
+Mitt navn er Harald.
 
 Er Høyskolekandidat i Informatikk, med hovedsakelig vekt på C/C++ programmering i Windows, men har også hatt Assembleyprogrammering, Digitaltenknikk, Datamodellering og databaseteori/samt noe SQL database spørring.
+
+Jeg har nå fullført Kodeloftet 1, et begynner kurs i <strong>HTML, CSS og Javascript1<strong> på Fontenehuset. <br> <br>
 
 [Fontenehuset kodeloftet](https://www.fontenehusetbergen.no/kodeloftet) <br>
 
@@ -20,5 +22,8 @@ Vår 2dre oppgave på kurset, først design i figma og deretter i Vanilla. Den m
 [My To-Do List Application](https://to-do-list-sepia-phi-37.vercel.app/)
 
 Vår første oppgave i å bruke forms i html og sende data til Javascript. To-Do-List er en standard oppgave innenfor begynnerkurs i Web-utvikling.
-La til litt kommentarer med AI opptak og noen litt merkelige animasjoner senere. Designet er kun ment for å være "min" to-do liste.
+La til litt kommentarer med AI opptak og noen litt merkelige animasjoner senere. Designet er kun ment for å være "min" to-do liste. 
+
+Holder nå på med React, Typescript og en del prosjekter der. 
+
 
