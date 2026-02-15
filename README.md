@@ -3,6 +3,7 @@
 Mitt navn er Harald.
 
 Er Høyskolekandidat i Informatikk, med hovedsakelig vekt på C/C++ programmering i Windows, men har også hatt Assembleyprogrammering, Digitaltenknikk, Datamodellering og databaseteori/samt noe SQL database spørring.
+Har programmert i Windows i C# siden ca. 2010.
 
 Jeg har nå fullført Kodeloftet 1, et begynner kurs i <strong>HTML, CSS og Javascript1</strong> på Fontenehuset, et samarbeid de har hatt med Jobloop siden 2022. 
 
@@ -17,7 +18,7 @@ noen bøker og håndere de. La til mye artig, en AI stemme som hjelper deg og my
 
 [Saturn - the most interesting planet in our solar system](https://saturnkodeloft1.vercel.app/)
 
-Vår 2dre oppgave på kurset, først design i figma og deretter i Vanilla. Den mest omfattende oppgaven innholdsmessig. <br>
+Vår 2dre oppgave på kurset, først design i figma og deretter i Vanilla. Den mest omfattende oppgaven innholdsmessig. (Kun repsonsiv for mobil og > 1440 desktop. Skal oppdateres) <br>
 Tips : Ta en titt på månen <strong>Enceladus</strong>.
 
 [My To-Do List Application](https://to-do-list-sepia-phi-37.vercel.app/)
