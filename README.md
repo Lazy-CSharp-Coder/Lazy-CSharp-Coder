@@ -1,6 +1,4 @@
-# Velkommen <br>  
-
-Mitt navn er Harald.
+# Velkommen til min Github profil <br>  
 
 Er Høyskolekandidat i Informatikk, med hovedsakelig vekt på C/C++ programmering i Windows, men har også hatt Assembleyprogrammering, Digitaltenknikk, Datamodellering og databaseteori/samt noe SQL database spørring.
 Har programmert i Windows i C# siden ca. 2010.
