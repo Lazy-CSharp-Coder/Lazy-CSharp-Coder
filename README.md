@@ -14,7 +14,7 @@ Her er tre av mine prosjekter som vi hadde i forbindelse med kurset på Kodeloft
 [Books on my Bookshelf Database](https://mybookshelf-silk.vercel.app/)
 
 Oppgaven var : <br> <br> Håndere object og object arrays. Disse ble kodet direkte i javascript, ingen henting fra database. Valgte å registrere
-noen bøker og håndere de. La til mye artig, en AI stemme som hjelper deg og mye animasjoner. :-) (her bør man velge "Adeline", hun er litt vennligere :-) )
+noen bøker og håndtere de. La til mye artig, en AI stemme som hjelper deg og mye animasjoner. :-) (her bør man velge "Adeline", hun er litt vennligere :-) )
 
 [Saturn - the most interesting planet in our solar system](https://saturnkodeloft1.vercel.app/)
 
