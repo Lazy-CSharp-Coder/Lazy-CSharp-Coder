@@ -4,7 +4,7 @@ Mitt navn er Harald.
 
 Er Høyskolekandidat i Informatikk, med hovedsakelig vekt på C/C++ programmering i Windows, men har også hatt Assembleyprogrammering, Digitaltenknikk, Datamodellering og databaseteori/samt noe SQL database spørring.
 
-Jeg har nå fullført Kodeloftet 1, et begynner kurs i <strong>HTML, CSS og Javascript1<strong> på Fontenehuset, et samarbeid de har hatt med jobloop siden 2022. <br> 
+Jeg har nå fullført Kodeloftet 1, et begynner kurs i <strong>HTML, CSS og Javascript1<strong> på Fontenehuset, et samarbeid de har hatt med Jobloop siden 2022. <br> 
 
 [Fontenehuset kodeloftet](https://www.fontenehusetbergen.no/kodeloftet) <br>
 
