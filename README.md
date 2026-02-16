@@ -1,6 +1,6 @@
 # Velkommen <br>  
 
-Er Høyskolekandidat i Informatikk, med hovedsakelig vekt på C/C++ programmering i Windows, men har også hatt Assembleyprogrammering, Digitaltenknikk, Datamodellering og databaseteori/samt noe SQL database spørring.
+Er Høyskolekandidat i Informatikk, med hovedsakelig vekt på C/C++ programmering i Windows, men har også hatt Assembleyprogrammering, Digitaltenknikk, Datamodellering og databaseteori/samt SQL database spørring.
 Har programmert i Windows i C# siden ca. 2010.
 
 Jeg har nå fullført Kodeloftet 1, et begynner kurs i <strong>HTML, CSS og Javascript1</strong> på Fontenehuset, et samarbeid de har hatt med Jobloop siden 2022. Holder nå på med React, Typescript og en del prosjekter der. 
