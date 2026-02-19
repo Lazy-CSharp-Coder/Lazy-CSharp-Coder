@@ -17,8 +17,8 @@ noen bøker og håndtere de. La til mye artig, en AI stemme som hjelper deg og m
 
 [Saturn - the most interesting planet in our solar system](https://saturnkodeloft1.vercel.app/)
 
-Vår 2dre oppgave på kurset, først design i figma og deretter i Vanilla. Den mest omfattende oppgaven innholdsmessig. Er under oppdatering. ) <br>
-Tips : Ta en titt på månen <strong>Enceladus</strong>.
+Vår 2dre oppgave på kurset, først design i figma og deretter i Vanilla. Den mest omfattende oppgaven innholdsmessig. Er under oppdatering, for å gjøre den fullstendig responsive (snart ferdig :-)) <br>
+Tips : Ta en titt på månen <strong>Enceladus</strong>. 
 
 [My To-Do List Application](https://to-do-list-sepia-phi-37.vercel.app/)
 
