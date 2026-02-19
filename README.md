@@ -3,7 +3,8 @@
 Er Høyskolekandidat i Informatikk, med hovedsakelig vekt på C/C++ programmering i Windows, men har også hatt Assembleyprogrammering, Digitaltenknikk, Datamodellering og databaseteori/samt SQL database spørring.
 Har programmert i Windows i C# siden ca. 2010.
 
-Jeg har nå fullført Kodeloftet 1, et begynner kurs i <strong>HTML, CSS og Javascript1</strong> på Fontenehuset, et samarbeid de har hatt med Jobloop siden 2022. Holder nå på med React, Typescript og en del prosjekter der. 
+Jeg har nå fullført Kodeloftet 1, et begynner kurs i <strong>HTML, CSS og Javascript1</strong> på Fontenehuset, et samarbeid de har hatt med Jobloop siden 2022. Vi fortsatte med React og Vite i Kodeloftet 2.0, til det ble stoppet pga. nedskjæringer. 
+Holder nå på med React, Typescript og en del prosjekter der og planlegger å ta en del online kurs i Next.js og React.
 
 [Fontenehuset kodeloftet](https://www.fontenehusetbergen.no/kodeloftet) <br>
 
