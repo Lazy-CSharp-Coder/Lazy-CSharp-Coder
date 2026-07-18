@@ -5,7 +5,6 @@ Har programmert i Windows i C# siden ca. 2010.
 
 Har tatt kurs i Frontend web-utvvikling  og skal fullføre pro-path på Scrimba, for å bli fullstack.
 
-Holder nå på med et web-prosjekt med en Sanity back-end løsning. 
+Holder nå på med et web-prosjekt med en Sanity back-end løsning for en lokal bedrift i Bergen.
 
-Mer info siden ...
 
