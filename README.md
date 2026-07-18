@@ -7,4 +7,6 @@ Har tatt kurs i Frontend web-utvikling og har som mål å bli fullstack.
 
 Holder nå på med et web-prosjekt med en Sanity back-end løsning for en lokal bedrift i Bergen.
 
+# Welcome <br>
+
 
